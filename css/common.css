@@ -1,0 +1,47 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #fbfbfb;
+  background-color: #0e1823;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+button {
+  padding: 0;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}

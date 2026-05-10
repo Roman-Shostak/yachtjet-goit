@@ -1,0 +1,10 @@
+.yachts-title {
+  max-width: 714px;
+  margin: 0 auto;
+  margin-bottom: 75px;
+}
+
+.yachts-list {
+  display: flex;
+  gap: 32px;
+}
